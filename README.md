@@ -1,6 +1,6 @@
-# Rusk
+# Project Bourbon
 
-Rusk, An Interview Test Application
+Test intranet
 ## gulp-boilerplate
 
 A gulp ITCSS Sass based boilerplate for individuals and teams.
